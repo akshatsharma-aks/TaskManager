@@ -71,38 +71,8 @@ java Main
 
 ## 🖥️ Sample Output
 
-```
-  ╔══════════════════════════════════════════════════╗
-  ║       CONSOLE-BASED TASK MANAGEMENT SYSTEM       ║
-  ║          Internship Project — Java OOP            ║
-  ╚══════════════════════════════════════════════════╝
-  Sample data loaded. You're ready to go!
+<img width="455" height="344" alt="{B8A0A26E-3085-4014-9708-56A2CDB3AF9F}" src="https://github.com/user-attachments/assets/caf41a8b-80aa-42be-9be2-e634f3327af3" />
 
-  ┌─────────────────────────────────┐
-  │           MAIN MENU             │
-  ├─────────────────────────────────┤
-  │  1.  Add New Task               │
-  │  2.  View All Tasks             │
-  │  3.  Update Task                │
-  │  4.  Delete Task                │
-  │  5.  Exit                       │
-  └─────────────────────────────────┘
-Enter your choice: 2
-
-  ══════════════════════════════════════════
-   ALL TASKS
-  ══════════════════════════════════════════
-  ID     TITLE                   DESCRIPTION                     STATUS
-  ──────────────────────────────────────────────────────────────────────────────
-  1      Design Database Schema  Create ERD and define all tab..  [✓] Completed
-  2      Build REST API          Implement CRUD endpoints using..  [~] In Progress
-  3      Write Unit Tests        Cover all service-layer method..  [ ] Pending
-  4      Deploy to AWS           Set up EC2 instance and deploy..  [ ] Pending
-  ──────────────────────────────────────────────────────────────────────────────
-  Total Tasks: 4
-```
-
----
 
 ## 🧠 Concepts Demonstrated
 
@@ -119,10 +89,10 @@ Enter your choice: 2
 
 ## 👤 Author
 
-**[Your Full Name]**
-B.Tech CSE — [Year]
-[Your College Name]
-GitHub: [@yourusername](https://github.com/yourusername)
+**Akshat Sharma**
+B.Tech CSE — 3rd Year
+Sharda University
+GitHub: [@akshatsharma-aks](https://github.com/akshatsharma-aks)
 
 ---
 
